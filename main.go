@@ -14,6 +14,8 @@ type ipAddress struct {
 
 func main() {
 
+	fmt.Println("teste banco postgres")
+	fmt.Println()
 	menu()
 
 	for {
